@@ -12,7 +12,7 @@ There are 3 main parts :
 Of course, this was the testing phase and I was planing to invest in a full stack later once the business in started at full speed.
 But for the begining, this method was easy enough to program and reliable to do the job for small quantities
 
-3. Prepare shipment sticlers for Yamato
+3. Prepare shipment sticlers for Yamato. 
 Same situation as Rakuten. To make it full automatic, it would require a contract with Yamato to access API and print directly. 
 It was easier to start with Selenium to get everything working quickly and easily controllable by myself at no cost...
 
