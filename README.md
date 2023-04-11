@@ -4,7 +4,7 @@ This a the repository of the python scripts created to help manage the orders, s
 The goal is just to show what I could code, find the easiest solutions to get the orders fulfilled quickly and at a minimum cost to start with. 
 Obviously, the goal was to move to a professional service once the business was at full speed.
 
-There is 3 main parts :
+There are 3 main parts :
 1. grab orders from Amazon using official APIs and store them in a file
   this was the easiest part since Amazon provide access to merchant store through a free set of APIs
  
