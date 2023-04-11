@@ -26,7 +26,7 @@ adresses = []
 produits = []
 user_glogin = 'GourmetsJP'
 mdp = ''
-user_yahoo = 'loys_belleguie@yahoo.co.jp'
+user_yahoo = 'xxxxxxxxxxxxxxx@yahoo.co.jp'
 mdp2 = ""
 
 def connect_to_rms() -> bool:

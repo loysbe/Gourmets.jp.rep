@@ -6,16 +6,16 @@ import email.mime.*
 # help(smtplib)
 
 # gmail API part
-# clientID = 976806583305-dp1aafcb5ttq5pp93032sls00t25rb3k.apps.googleusercontent.com
+# clientID =xxxxxxxxxxxxxx.apps.googleusercontent.com
 
 
 smtp_server = 'smtp.gmail.com'
 port = 465
-ltd_japon_id = 'loys.belleguie@ltd-japon.com'
+ltd_japon_id = 'xxx@ltd-japon.com'
 password = 'xxxxxxx'
 
 email_content = "Message body"
-list_of_email = ['blgl@outlook.jp']
+list_of_email = ['xxx@outlook.jp']
 # Enter Email list here
 
 msg = email.message.Message()

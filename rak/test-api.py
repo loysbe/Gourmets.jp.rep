@@ -12,8 +12,8 @@ import requests
 def get_product_info():
 
     # ■■■■■■■■　認証情報　■■■■■■■■■■
-    serviceSecret = b"SP375953_Q4Xq7PwS9Gkq16Ld"
-    licenseKey = b"SL375953_iI4yIxnzLhctmex5"
+    serviceSecret = b"xxxxxxxxxxxxxx"
+    licenseKey = b"xxxxxxxxxxxxxx"
     headers = {
         'Authorization' : b"ESA " + base64.b64encode( serviceSecret + b':' + licenseKey ),
         'Content-Type': 'application/json; charset=utf-8',

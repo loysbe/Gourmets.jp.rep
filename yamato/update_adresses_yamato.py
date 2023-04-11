@@ -108,8 +108,7 @@ def update_adresses():
     a = driver.find_element_by_xpath('//a[contains(text(), "ログアウト")]').click()
     return
 
-kuroneko_id = 'BK4XU755'
-kuroneko_id = 'RAV7B3G9'
+kuroneko_id = 'xxxxxxxxxxxxx'
 kuroneko_pwd = 'xxxxx'
 
 def connectToYMT():

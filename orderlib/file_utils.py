@@ -12,7 +12,7 @@ def getAddresses(file_name):
 
 user_glogin = 'GourmetsJP'
 mdp = 'xxxxxx'
-user_yahoo = 'loys_belleguie@yahoo.co.jp'
+user_yahoo = 'xxxxxxxxxxxx@yahoo.co.jp'
 mdp2 = "xxxxx"
 
 charcuteries_fine_conserves = ['pate-le-delice-25-foie-gras',\

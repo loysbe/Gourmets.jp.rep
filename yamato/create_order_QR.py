@@ -30,8 +30,7 @@ else:
     driver = webdriver.Chrome(executable_path="C:\\Loys\\Google drive - ltd-japon\\Dev\\web\\Chrome\\chromedriver.exe", chrome_options=options)
 
 
-kuroneko_id = 'BK4XU755'
-kuroneko_id = 'RAV7B3G9'
+kuroneko_id = 'xxxxxxxxxxx'
 kuroneko_pwd = 'xxxxx'
 
 regions = ['三重県',	'京都府',	'兵庫県',	'千葉県',	'和歌山県',	'埼玉県',	'大阪府',	'奈良県',\
