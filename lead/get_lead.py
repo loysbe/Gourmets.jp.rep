@@ -12,9 +12,6 @@ import csv
 
 # from facebook import GraphAPI
 
-# APP_ID = '404740724271979'
-# APP_SECRET = '1dbdaa122b7d1dad3787d7b73c3e39ff'
-
 # graph = GraphAPI(version=8.0)
 # graph.access_token = graph.get_app_access_token(APP_ID, APP_SECRET)
 
